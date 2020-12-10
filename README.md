@@ -13,9 +13,9 @@
 📫 How to reach me: reachable on Twitter @ https://twitter.com/rajat_srivas and via email on rajat.sedate@gmail.com
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=rajat-srivas)
+![My github stats](https://github-readme-stats.vercel.app/api?username=rajat-srivas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-srivas&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-srivas&layout=compact)
 
 
 
