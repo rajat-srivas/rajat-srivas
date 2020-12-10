@@ -15,7 +15,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=rajat-srivas)](https://github.com/rajat-srivas/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-srivas)](https://github.com/rajat-srivas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-srivas&layout=compact)](https://github.com/rajat-srivas/github-readme-stats)
 
 
 
