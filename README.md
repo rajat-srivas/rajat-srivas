@@ -1,6 +1,6 @@
 ### Hi there, I am Rajat Srivastava 👋
 
-🔭 Professionally I’m currently working on Asp.Net Web API's along with SQL, ElasticSearch, RabbitMq etc. 
+🔭 Professionally I work on Asp.Net Web API's along with SQL, ElasticSearch, RabbitMq etc. 
 
 💻 System Desigb is my latest interest and I am activity learning more and more about it
 
