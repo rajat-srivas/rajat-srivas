@@ -8,7 +8,7 @@
 
 💬 Ask me about C#, Asp.NET, Web API's, etc... and "GADGETS"
 
-📫 How to reach me: reachable on Twitter @ https://twitter.com/rajat_srivas and via email on rajat.sedate@gmail.com
+📫 How to reach me: Twitter @ https://twitter.com/rajat_srivas and via email on rajat.sedate@gmail.com
 
 🚀 I randomly blog my learning on https://stackup.hashnode.dev/ every now and then
 
